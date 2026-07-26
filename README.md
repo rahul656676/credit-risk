@@ -1,4 +1,4 @@
-# 🏦 Credit Risk Management System
+# ≡ƒÅª Credit Risk Management System
 
 A Machine Learning-based Credit Risk Management System that predicts whether a customer is eligible for loan approval based on financial and personal details.
 
@@ -10,19 +10,19 @@ This project combines:
 
 ---
 
-# 🚀 Features
+# ≡ƒÜÇ Features
 
-✅ Loan Approval Prediction  
-✅ Real-time EMI Calculation  
-✅ Credit Risk Analysis  
-✅ Financial Stability Check  
-✅ Streamlit Interactive Dashboard  
-✅ Random Forest ML Model  
-✅ Banking-style Risk Logic  
+Γ£à Loan Approval Prediction  
+Γ£à Real-time EMI Calculation  
+Γ£à Credit Risk Analysis  
+Γ£à Financial Stability Check  
+Γ£à Streamlit Interactive Dashboard  
+Γ£à Random Forest ML Model  
+Γ£à Banking-style Risk Logic  
 
 ---
 
-# 🛠️ Tech Stack
+# ≡ƒ¢á∩╕Å Tech Stack
 
 - Python
 - Pandas
@@ -34,22 +34,22 @@ This project combines:
 
 ---
 
-# 📂 Project Structure
+# ≡ƒôé Project Structure
 
 ```bash
 credit-risk-management/
-│
-├── app.py
-├── model.py
-├── dataset.csv
-├── credit_model.pkl
-├── requirements.txt
-└── README.md
+Γöé
+Γö£ΓöÇΓöÇ app.py
+Γö£ΓöÇΓöÇ model.py
+Γö£ΓöÇΓöÇ dataset.csv
+Γö£ΓöÇΓöÇ credit_model.pkl
+Γö£ΓöÇΓöÇ requirements.txt
+ΓööΓöÇΓöÇ README.md
 ```
 
 ---
 
-# ⚙️ Installation
+# ΓÜÖ∩╕Å Installation
 
 Install dependencies:
 
@@ -59,7 +59,7 @@ pip install pandas numpy scikit-learn streamlit joblib
 
 ---
 
-# ▶️ Run Project
+# Γû╢∩╕Å Run Project
 
 Train model:
 
@@ -75,7 +75,7 @@ streamlit run app.py
 
 ---
 
-# 📊 Risk Parameters
+# ≡ƒôè Risk Parameters
 
 The system evaluates:
 
@@ -89,7 +89,7 @@ The system evaluates:
 
 ---
 
-# 💰 EMI Analysis
+# ≡ƒÆ░ EMI Analysis
 
 The application calculates:
 
@@ -100,7 +100,7 @@ The application calculates:
 
 ---
 
-# 📈 Machine Learning
+# ≡ƒôê Machine Learning
 
 Model Used:
 - Random Forest Classifier
@@ -114,7 +114,7 @@ for more realistic loan approval decisions.
 
 ---
 
-# 🌐 Deployment
+# ≡ƒîÉ Deployment
 
 This project can be deployed using:
 - Streamlit Cloud
@@ -123,12 +123,12 @@ This project can be deployed using:
 
 ---
 
-# 📌 Project Outcome
+# ≡ƒôî Project Outcome
 
 The system simulates a real-world banking loan approval workflow by combining machine learning prediction with financial risk analysis to identify high-risk customers.
 
 ---
 
-# 👨‍💻 Author
+# ≡ƒæ¿ΓÇì≡ƒÆ╗ Author
 
 Rahul Jangir
